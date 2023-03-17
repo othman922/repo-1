@@ -1,0 +1,1 @@
+<form action="https://tuktukcinema.co" method="GET"><input autocomplete="off" id="searchAuto" type="text" name="s" placeholder="أبحث في توك توك سينما"><div id="SearchListResult" style="display: none;"><div id="SearchInnerList"></div></div><button type="submit"><i class="fa fa-search"></i></button></form>
